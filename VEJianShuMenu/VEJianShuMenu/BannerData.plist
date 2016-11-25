@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>app_image</key>
+		<string>http://upload.jianshu.io/admin_banners/app_images/2088/b79e9b728e0fbbc7e132bc47baf65988cd7a896c.jpg</string>
+		<key>link</key>
+		<string>http://www.jianshu.com/p/d5ea0e127d01</string>
+	</dict>
+	<dict>
+		<key>app_image</key>
+		<string>http://upload.jianshu.io/admin_banners/app_images/2040/05c39cdce44b81fc8cef84c57bd6983dd824a74b.jpg</string>
+		<key>link</key>
+		<string>http://www.jianshu.com/p/f9d2285c03e6</string>
+	</dict>
+	<dict>
+		<key>app_image</key>
+		<string>http://upload.jianshu.io/admin_banners/app_images/2089/4cd3ff539f35fca8d5a6b32b763102cfc7bf517b.jpg</string>
+		<key>link</key>
+		<string>http://www.jianshu.com/p/e2aaa54b5dc1</string>
+	</dict>
+	<dict>
+		<key>app_image</key>
+		<string>http://upload.jianshu.io/admin_banners/app_images/2090/01320ab6516c182f0e21c2cc0d80c33f752fc6fe.jpg</string>
+		<key>link</key>
+		<string>http://www.jianshu.com/p/192d060e77b2</string>
+	</dict>
+	<dict>
+		<key>app_image</key>
+		<string>http://upload.jianshu.io/admin_banners/app_images/2084/92dc76baca3dcab661b120472024529178726f68.jpg</string>
+		<key>link</key>
+		<string>http://www.jianshu.com/p/6865b1b41aeb</string>
+	</dict>
+	<dict>
+		<key>app_image</key>
+		<string>http://upload.jianshu.io/admin_banners/app_images/2082/d3dd46c3f90a730466dd8553f61095ee7490a758.jpg</string>
+		<key>link</key>
+		<string>http://www.jianshu.com/p/05c4695214a6</string>
+	</dict>
+</array>
+</plist>

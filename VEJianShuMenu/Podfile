@@ -1,0 +1,14 @@
+target ‘VEJianShuMenu’ do
+
+pod 'Masonry', '~> 1.0.0'
+pod 'MJRefresh'
+pod 'IQKeyboardManager'
+pod 'AFNetworking',             '~> 2.5.0'
+pod 'pop',                      '~> 1.0.5'
+pod 'SDWebImage'
+pod 'SDCycleScrollView', '~> 1.64'
+pod 'RESideMenu', '~> 4.0.7'
+pod 'Mantle', '~> 2.0.7'
+pod 'MJExtension', '~> 3.0.10'
+#pod ‘RunTrace’
+end
